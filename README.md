@@ -1,5 +1,5 @@
 # bluetooth_device_scan
 
- 1. pip3 install bluetooth
+ 1. python3 -m pip install pybluez
 
- 2. pip3 install playsound
+ 2. python3 -m pip install playsound
